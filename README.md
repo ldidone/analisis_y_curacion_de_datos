@@ -5,7 +5,7 @@
 
 Repositorio de código de la cátedra **Análisis y curación de datos** perteneciente al **Grupo 9**.
 
-*Integrantes del grupo:***
+*Integrantes del grupo:*
 - Carolina Trogliero
 - Adrián Galfioni
 - Ignacio Grosso
