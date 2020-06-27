@@ -18,3 +18,8 @@ Los Notebooks que creamos están disponibles en el presente repositorio y tambi�
 - https://colab.research.google.com/drive/1qmS9nDwzUtPjqRAYWbKfQ6ieNDqybavn?usp=sharing#scrollTo=QY11XHKNA2uH
 
 - https://colab.research.google.com/drive/18jy7DvVY8ma8yQtv643gBLIxf-hhx5qA#scrollTo=v7maO_J5SbWS
+
+Los archivos de la práctica de **SQL** se encuentran en los siguientes enlaces:
+
+- https://github.com/ldidone/analisis_y_curacion_de_datos/blob/master/EJ_1_SQL.sql
+- https://github.com/ldidone/analisis_y_curacion_de_datos/blob/master/PRACTICO_SQL.sql
